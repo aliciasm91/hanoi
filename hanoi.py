@@ -4,7 +4,7 @@
 from __future__ import print_function
 import time
 
-#comentario
+#comentario prueba
 __author__ = "Ricardo Rodríguez Schmidt"
 __license__ = "MIT"
 __version__ = "1.0"
